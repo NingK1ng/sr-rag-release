@@ -59,6 +59,6 @@ print(first_node)
 print(first_edge)
 ```
 
-## License & citation
+## License
 
-TBD by the authors. Please fill in the license and citation before making the dataset public.
+This dataset is released under CC BY 4.0.

@@ -36,6 +36,6 @@ Per the paper, the public benchmark release contains:
 
 - Evidence window text is not included in this public benchmark. Retrieved evidence is represented by identifiers only, because some source documents are institutionally subscribed.
 
-## License & citation
+## License
 
-This dataset is released under CC BY 4.0. Please add the final citation before journal submission.
+This dataset is released under CC BY 4.0.
