@@ -16,7 +16,7 @@ size_categories:
 # SR-RAG Knowledge Graph
 
 This repository provides the knowledge graph described in our manuscript:
-*From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark*.
+*Integrating Evidence-Based Medicine into GraphRAG*.
 
 The original graph was constructed with the Youtu-GraphRAG pipeline and exported from NetworkX.
 

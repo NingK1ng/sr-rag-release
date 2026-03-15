@@ -17,7 +17,7 @@ size_categories:
 # SR-RAG Benchmark (n = 1,637)
 
 This repository provides the benchmark dataset described in our manuscript:
-*From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark*.
+*Integrating Evidence-Based Medicine into GraphRAG*.
 
 ## Files
 

@@ -1,7 +1,7 @@
 # SR-RAG: Data Release
 
 This repository contains the benchmark and knowledge graph for the paper:
-*From Evidence-Based Medicine to Knowledge Graph: Retrieval-Augmented Generation for Sports Rehabilitation and a Domain Benchmark*.
+*Integrating Evidence-Based Medicine into GraphRAG*.
 
 ## Contents
 
