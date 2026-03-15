@@ -1,0 +1,10 @@
+{
+  "source_dir": "/Users/ning/Desktop/BCSM/评测集/benchmark_full",
+  "output_file": "output/hf_release/benchmark/benchmark_1637.jsonl",
+  "count": 1637,
+  "fields": [
+    "ground_truth",
+    "nuggets",
+    "question_en"
+  ]
+}

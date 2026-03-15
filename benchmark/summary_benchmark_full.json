@@ -1,0 +1,170 @@
+{
+  "per_code": {
+    "ACL": {
+      "youtu_questions": 46,
+      "full_available": 60,
+      "aligned_total": 46,
+      "matched_full_gt": 46,
+      "missing_full_gt": 0
+    },
+    "ACSM": {
+      "youtu_questions": 92,
+      "full_available": 110,
+      "aligned_total": 92,
+      "matched_full_gt": 92,
+      "missing_full_gt": 0
+    },
+    "ACSM_pedCR": {
+      "youtu_questions": 11,
+      "full_available": 13,
+      "aligned_total": 11,
+      "matched_full_gt": 11,
+      "missing_full_gt": 0
+    },
+    "AT": {
+      "youtu_questions": 36,
+      "full_available": 56,
+      "aligned_total": 36,
+      "matched_full_gt": 36,
+      "missing_full_gt": 0
+    },
+    "BSI": {
+      "youtu_questions": 38,
+      "full_available": 48,
+      "aligned_total": 38,
+      "matched_full_gt": 38,
+      "missing_full_gt": 0
+    },
+    "FS": {
+      "youtu_questions": 79,
+      "full_available": 122,
+      "aligned_total": 79,
+      "matched_full_gt": 79,
+      "missing_full_gt": 0
+    },
+    "GPA": {
+      "youtu_questions": 79,
+      "full_available": 129,
+      "aligned_total": 79,
+      "matched_full_gt": 79,
+      "missing_full_gt": 0
+    },
+    "GTPS": {
+      "youtu_questions": 96,
+      "full_available": 125,
+      "aligned_total": 96,
+      "matched_full_gt": 96,
+      "missing_full_gt": 0
+    },
+    "HSI": {
+      "youtu_questions": 70,
+      "full_available": 122,
+      "aligned_total": 70,
+      "matched_full_gt": 70,
+      "missing_full_gt": 0
+    },
+    "IS": {
+      "youtu_questions": 105,
+      "full_available": 128,
+      "aligned_total": 105,
+      "matched_full_gt": 105,
+      "missing_full_gt": 0
+    },
+    "LAS": {
+      "youtu_questions": 86,
+      "full_available": 119,
+      "aligned_total": 86,
+      "matched_full_gt": 86,
+      "missing_full_gt": 0
+    },
+    "LBP": {
+      "youtu_questions": 50,
+      "full_available": 77,
+      "aligned_total": 50,
+      "matched_full_gt": 50,
+      "missing_full_gt": 0
+    },
+    "LBS2": {
+      "youtu_questions": 98,
+      "full_available": 128,
+      "aligned_total": 98,
+      "matched_full_gt": 98,
+      "missing_full_gt": 0
+    },
+    "LET": {
+      "youtu_questions": 70,
+      "full_available": 97,
+      "aligned_total": 70,
+      "matched_full_gt": 70,
+      "missing_full_gt": 0
+    },
+    "MACL": {
+      "youtu_questions": 78,
+      "full_available": 113,
+      "aligned_total": 78,
+      "matched_full_gt": 78,
+      "missing_full_gt": 0
+    },
+    "MTSS": {
+      "youtu_questions": 55,
+      "full_available": 73,
+      "aligned_total": 55,
+      "matched_full_gt": 55,
+      "missing_full_gt": 0
+    },
+    "NHJP": {
+      "youtu_questions": 73,
+      "full_available": 129,
+      "aligned_total": 73,
+      "matched_full_gt": 73,
+      "missing_full_gt": 0
+    },
+    "NP": {
+      "youtu_questions": 63,
+      "full_available": 96,
+      "aligned_total": 63,
+      "matched_full_gt": 63,
+      "missing_full_gt": 0
+    },
+    "PHP": {
+      "youtu_questions": 76,
+      "full_available": 108,
+      "aligned_total": 76,
+      "matched_full_gt": 76,
+      "missing_full_gt": 0
+    },
+    "PP": {
+      "youtu_questions": 87,
+      "full_available": 114,
+      "aligned_total": 87,
+      "matched_full_gt": 87,
+      "missing_full_gt": 0
+    },
+    "PT": {
+      "youtu_questions": 77,
+      "full_available": 125,
+      "aligned_total": 77,
+      "matched_full_gt": 77,
+      "missing_full_gt": 0
+    },
+    "RCT": {
+      "youtu_questions": 102,
+      "full_available": 138,
+      "aligned_total": 102,
+      "matched_full_gt": 102,
+      "missing_full_gt": 0
+    },
+    "SI": {
+      "youtu_questions": 70,
+      "full_available": 113,
+      "aligned_total": 70,
+      "matched_full_gt": 70,
+      "missing_full_gt": 0
+    }
+  },
+  "global": {
+    "total_youtu_questions": 1637,
+    "total_matched_full_gt": 1637,
+    "total_missing_full_gt": 0
+  }
+}
